@@ -13,7 +13,7 @@ This is a static AngularJS front-end project template to help get a project up a
 python -m SimpleHTTPServer 8000
 ```
 - you should see the following:
-
+![screenshot](https://raw.githubusercontent.com/strongloop-community/sl-angular-starter/master/www/images/screenshot.png)
 
 #Composition:
 - index.html
