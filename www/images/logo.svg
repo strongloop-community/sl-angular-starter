@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="266px" height="109px" viewBox="0 0 266 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="scaffold-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <g sketch:type="MSShapeGroup">
+                <circle id="Oval-2" stroke="#979797" fill="#975634" cx="39.5" cy="14.5" r="14.5"></circle>
+                <circle id="Oval-3" stroke="#979797" fill="#975634" cx="107.5" cy="14.5" r="14.5"></circle>
+                <circle id="Oval-4" stroke="#979797" fill="#975634" cx="107.5" cy="91.5" r="14.5"></circle>
+                <circle id="Oval-5" stroke="#979797" fill="#975634" cx="39.5" cy="92.5" r="14.5"></circle>
+                <circle id="Oval-6" stroke="#979797" fill="#975634" cx="136.5" cy="51.5" r="14.5"></circle>
+                <path d="M14.5,44.5 L14.5,60.5 L-0.5,52.5 L14.5,44.5 Z" id="Triangle-1" stroke="#979797" fill="#975634"></path>
+                <ellipse id="Oval-1" stroke="#372E2E" stroke-width="2" fill="#4C792A" cx="72.5" cy="52" rx="58.5" ry="47"></ellipse>
+                <g id="Oval-7-+-Oval-8" transform="translate(138.000000, 39.000000)" stroke="#979797">
+                    <ellipse id="Oval-7" fill="#FFFFFF" cx="4" cy="3.5" rx="4" ry="3.5"></ellipse>
+                    <ellipse id="Oval-8" fill="#171817" cx="5" cy="3" rx="3" ry="2"></ellipse>
+                </g>
+                <g id="Oval-7-+-Oval-9" transform="translate(138.000000, 55.000000)" stroke="#979797">
+                    <ellipse id="Oval-7" fill="#FFFFFF" cx="4" cy="3.5" rx="4" ry="3.5"></ellipse>
+                    <ellipse id="Oval-8" fill="#171817" cx="5" cy="3" rx="3" ry="2"></ellipse>
+                </g>
+            </g>
+            <text id="Logo" opacity="0.64348181" sketch:type="MSTextLayer" font-family="PT Mono" font-size="36" font-weight="bold" letter-spacing="4.19999838" fill="#171817">
+                <tspan x="167" y="60">Log</tspan>
+                <tspan x="244.399995" y="60">o</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

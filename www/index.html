@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>[Angular Blank]</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="stylesheet" type="text/css" href="./style/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="./style/style.css">
+
+  </head>
+  <body ng-app="Main" ng-controller="MainController">
+
+    <div  class="page-header">
+      <div class="branding">
+        <a ui-sref="home"><img src="./images/logo.svg" alt="logo" class="logo"></a>
+      </div>
+    </div>
+
+    <div ui-view autoscroll="false" class="app-module-container"></div>
+
+    <!-- angular -->
+    <script src="./scripts/vendor/angular/angular.js"></script>
+
+
+    <script src="./scripts/vendor/lodash.js"></script>
+
+    <!-- spin -->
+    <script src="./scripts/vendor/spin.js"></script>
+
+    <!-- moment -->
+    <script src="./scripts/vendor/moment.js"></script>
+
+    <!-- lb api services
+
+      LoopBack Angular SDK goes here
+
+    <script src="./scripts/modules/common/api.services.js"></script>
+
+    -->
+
+    <!-- angular plugins and directives -->
+    <script src="./scripts/vendor/angular/ui-utils.js"></script>
+
+    <!-- angular plugins and directives -->
+    <script src="./scripts/vendor/angular/ui-utils.js"></script>
+    <script src="./scripts/vendor/angular/angular-cookies.js"></script>
+    <script src="./scripts/vendor/angular/angular-animate.js"></script>
+    <script src="./scripts/vendor/angular/angular-ui-router.js"></script>
+    <script src="./scripts/vendor/angular/angular-touch.js"></script>
+    <script src="./scripts/vendor/angular/angular-spinner.js"></script>
+    <script src="./scripts/vendor/angular/angular-sanitize.js"></script>
+    <script src="./scripts/vendor/angular/ui-bootstrap-tpls-0.12.0.js"></script>
+    <script src="./scripts/vendor/angular/angular-resource.js"></script>
+
+    <!-- main -->
+    <script src="./scripts/modules/main/main.module.js"></script>
+    <script src="./scripts/modules/main/main.controllers.js"></script>
+
+    <!-- common -->
+    <script src="./scripts/modules/common/common.module.js"></script>
+    <script src="./scripts/modules/common/common.directives.js"></script>
+
+    <!-- hello-world -->
+    <script src="./scripts/modules/hello-world/hello-world.module.js"></script>
+    <script src="./scripts/modules/hello-world/hello-world.controllers.js"></script>
+    <script src="./scripts/modules/hello-world/hello-world.directives.js"></script>
+
+  </body>
+</html>
