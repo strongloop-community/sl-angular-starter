@@ -1,0 +1,15 @@
+node_modules
+bower_components
+.idea
+.DS_Store
+/client/www/scripts/version.js
+/client/test/sandbox
+/client/www/scripts/modules/common/workspace.services.js
+/client/www/style/style.css
+/client/www/help/
+/devtools/custom/strongloop.css
+/devtools/prefixed/
+*-xunit.xml
+sandbox
+client/test/integration/sandbox/
+.strong-pm
