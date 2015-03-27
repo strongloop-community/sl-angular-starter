@@ -6,7 +6,7 @@ This is a static AngularJS front-end project template to help get a project up a
 #Usage
 - clone this repo
 - create a new target project
-- copy the contents of this repo into the target project
+- copy the 'less' and 'www' directories into the 'client' directory of your target project
 - add your own modules and libs
 - if you're running a Mac you can test the setup by running:
 ```
