@@ -52,3 +52,5 @@ A sample 'feature' module featuring an angular directive pointing to a HTML temp
 #Notes
 - run 'git pull' on this repo before starting a new front end to get the latest version
 - this can obviously be optimized and automated but serves the purpose for getting something up and running quick and dirty
+- on Mac OS you can run the built in web server from the www directory:
+``` python -m SimpleHTTPServer 8000 ```
