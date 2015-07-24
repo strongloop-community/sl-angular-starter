@@ -3,6 +3,7 @@ var Main = angular.module('Main', [
   'ngResource',
   'ngSanitize',
   'ngAnimate',
+  'angular-growl',
   'angularSpinner',
   'ngCookies',
   'HelloWorld',
